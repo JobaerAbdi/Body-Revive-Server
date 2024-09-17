@@ -1,6 +1,6 @@
 # Fitness Equipment and Accessories
 
-### Live URL: https://assignment-4-ruddy-one.vercel.app/
+### Live URL: https://body-revive-server.vercel.app/
 
 ### Technology used
 
