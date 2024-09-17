@@ -24,7 +24,7 @@
 1. First clone this repository on your device with this command line:
 
 ```
-git clone https://github.com/shiningsudipto/fitness-tools-server
+git clone https://github.com/JobaerAbdi/Body-Revive-Server
 ```
 
 2. After cloning the repository install all necessary packages with:
